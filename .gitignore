@@ -1,3 +1,8 @@
 autosave
-*.swp
 *.log
+
+# vim temp files
+*.swp
+
+# used to trace holes in map
+*.pts
