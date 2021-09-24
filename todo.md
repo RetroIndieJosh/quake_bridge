@@ -15,12 +15,11 @@
 
 # Gameplay
 
-- could use more interesting things in/on the water, maybe islands to explore and more enemies
 - populate second building halls
 - populate gold key room
 - adjust groups in final room, maybe add more geometry/items
 - no gameplay benefit to windows in first building (need more things to see or snipe, shouldn't be able to trigger demon/ogres - some kind of overhang? or cover the bridge?)
-- check that secret armor shows up
+- could use more interesting things in/on the water, maybe islands to explore and more enemies
 
 # Ceilings
 
