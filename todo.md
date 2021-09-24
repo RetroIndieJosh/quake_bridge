@@ -16,17 +16,26 @@
 # Gameplay
 
 - could use more interesting things in/on the water, maybe islands to explore and more enemies
-- secret area under gold key trap should be lower so it's easier to see an item in it (maybe? try item/lighting first)
+- populate second building halls
+- populate gold key room
+- adjust groups in final room, maybe add more geometry/items
+- no gameplay benefit to windows in first building (need more things to see or snipe, shouldn't be able to trigger demon/ogres - some kind of overhang? or cover the bridge?)
+- check that secret armor shows up
 
 # Ceilings
 
+- mostly the large outside area and the upper floor of second building
+
 # Detailing
 
+- BUBBLES
+- most doors are too tall and probably shouldn't go up to ceilings
 - more stalactites in cave
 - more windows
 - clean up wet back courtyard walls
 - support beams for building areas jutting out?
 - gold key label on exit door
+- inset tracks behind elevators to suggest hidden mechanisms
 
 # Lighting
 
@@ -35,12 +44,3 @@
 - texture alignment
 - geometric polish
 
-# Issues
-
-- most doors are too tall
-- no gameplay benefit to windows in first building (need more things to see or snipe, shouldn't be able to trigger demon/ogres - some kind of overhang? or cover the bridge?)
-- ogre can see and shoot through func_illusionary secret (grenade launcher)
-- not enough ammo even with all the grunts, should put in more shells
-- can have more zombies in entrance, although need to think about issue of not having grenade launcher
-        - hide super shotgun and put grenade launcher where nailgun is? then where does nailgun go?
-- check that secret armor shows up
